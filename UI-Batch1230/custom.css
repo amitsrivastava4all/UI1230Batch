@@ -1,0 +1,16 @@
+/*
+ul>li{
+    list-style-image: url(images/correct.png);
+}*/
+a{
+    color: green;
+}
+#tickstyle{
+    list-style-image: url(images/correct.png);
+}
+.tick2{
+    list-style-type: square;
+}
+.tick3{
+    list-style-type: upper-roman;
+}
